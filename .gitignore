@@ -12,7 +12,7 @@ __pycache__/
 # --- OS-specific Files ---
 # For macOS users
 .DS_Store
-
+ 
 # --- Local Database & Journals ---
 # The main database file and its temporary journal file
 knowledge_base.db
